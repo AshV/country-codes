@@ -1,0 +1,157 @@
+Afghanistan 🇦🇫 (AF) - Country Code: +93
+Albania 🇦🇱 (AL) - Country Code: +355
+Algeria 🇩🇿 (DZ) - Country Code: +213
+Andorra 🇦🇩 (AD) - Country Code: +376
+Angola 🇦🇴 (AO) - Country Code: +244
+Antigua and Barbuda 🇦🇬 (AG) - Country Code: +1 (268)
+Argentina 🇦🇷 (AR) - Country Code: +54
+Armenia 🇦🇲 (AM) - Country Code: +374
+Australia 🇦🇺 (AU) - Country Code: +61
+Austria 🇦🇹 (AT) - Country Code: +43
+Azerbaijan 🇦🇿 (AZ) - Country Code: +994
+Bahamas 🇧🇸 (BS) - Country Code: +1 (242)
+Bahrain 🇧🇭 (BH) - Country Code: +973
+Bangladesh 🇧🇩 (BD) - Country Code: +880
+Barbados 🇧🇧 (BB) - Country Code: +1 (246)
+Belarus 🇧🇾 (BY) - Country Code: +375
+Belgium 🇧🇪 (BE) - Country Code: +32
+Belize 🇧🇿 (BZ) - Country Code: +501
+Benin 🇧🇯 (BJ) - Country Code: +229
+Bhutan 🇧🇹 (BT) - Country Code: +975
+Bolivia 🇧🇴 (BO) - Country Code: +591
+Bosnia and Herzegovina 🇧🇦 (BA) - Country Code: +387
+Botswana 🇧🇼 (BW) - Country Code: +267
+Brazil 🇧🇷 (BR) - Country Code: +55
+Brunei 🇧🇳 (BN) - Country Code: +673
+Bulgaria 🇧🇬 (BG) - Country Code: +359
+Burkina Faso 🇧🇫 (BF) - Country Code: +226
+Burundi 🇧🇮 (BI) - Country Code: +257
+Cabo Verde 🇨🇻 (CV) - Country Code: +238
+Cambodia 🇰🇭 (KH) - Country Code: +855
+Cameroon 🇨🇲 (CM) - Country Code: +237
+Canada 🇨🇦 (CA) - Country Code: +1
+Central African Republic 🇨🇫 (CF) - Country Code: +236
+Chad 🇹🇩 (TD) - Country Code: +235
+Chile 🇨🇱 (CL) - Country Code: +56
+China 🇨🇳 (CN) - Country Code: +86
+Colombia 🇨🇴 (CO) - Country Code: +57
+Comoros 🇰🇲 (KM) - Country Code: +269
+Congo (Brazzaville) 🇨🇬 (CG) - Country Code: +242
+Congo (Kinshasa) 🇨🇩 (CD) - Country Code: +243
+Costa Rica 🇨🇷 (CR) - Country Code: +506
+Croatia 🇭🇷 (HR) - Country Code: +385
+Cuba 🇨🇺 (CU) - Country Code: +53
+Cyprus 🇨🇾 (CY) - Country Code: +357
+Czech Republic 🇨🇿 (CZ) - Country Code: +420
+Denmark 🇩🇰 (DK) - Country Code: +45
+Djibouti 🇩🇯 (DJ) - Country Code: +253
+Dominica 🇩🇲 (DM) - Country Code: +1 (767)
+Dominican Republic 🇩🇴 (DO) - Country Code: +1 (809)
+East Timor 🇹🇱 (TL) - Country Code: +670
+Ecuador 🇪🇨 (EC) - Country Code: +593
+Egypt 🇪🇬 (EG) - Country Code: +20
+El Salvador 🇸🇻 (SV) - Country Code: +503
+Equatorial Guinea 🇬🇶 (GQ) - Country Code: +240
+Eritrea 🇪🇷 (ER) - Country Code: +291
+Estonia 🇪🇪 (EE) - Country Code: +372
+Eswatini 🇸🇿 (SZ) - Country Code: +268
+Ethiopia 🇪🇹 (ET) - Country Code: +251
+Fiji 🇫🇯 (FJ) - Country Code: +679
+Finland 🇫🇮 (FI) - Country Code: +358
+France 🇫🇷 (FR) - Country Code: +33
+Gabon 🇬🇦 (GA) - Country Code: +241
+Gambia 🇬🇲 (GM) - Country Code: +220
+Georgia 🇬🇪 (GE) - Country Code: +995
+Germany 🇩🇪 (DE) - Country Code: +49
+Ghana 🇬🇭 (GH) - Country Code: +233
+Greece 🇬🇷 (GR) - Country Code: +30
+Grenada 🇬🇩 (GD) - Country Code: +1 (473)
+Guatemala 🇬🇹 (GT) - Country Code: +502
+Guinea 🇬🇳 (GN) - Country Code: +224
+Guinea-Bissau 🇬🇼 (GW) - Country Code: +245
+Guyana 🇬🇾 (GY) - Country Code: +592
+Haiti 🇭🇹 (HT) - Country Code: +509
+Honduras 🇭🇳 (HN) - Country Code: +504
+Hungary 🇭🇺 (HU) - Country Code: +36
+Iceland 🇮🇸 (IS) - Country Code: +354
+India 🇮🇳 (IN) - Country Code: +91
+Indonesia 🇮🇩 (ID) - Country Code: +62
+Iran 🇮🇷 (IR) - Country Code: +98
+Iraq 🇮🇶 (IQ) - Country Code: +964
+Ireland 🇮🇪 (IE) - Country Code: +353
+Israel 🇮🇱 (IL) - Country Code: +972
+Italy 🇮🇹 (IT) - Country Code: +39
+Ivory Coast 🇨🇮 (CI) - Country Code: +225
+Jamaica 🇯🇲 (JM) - Country Code: +1 (876)
+Japan 🇯🇵 (JP) - Country Code: +81
+Jordan 🇯🇴 (JO) - Country Code: +962
+Kazakhstan 🇰🇿 (KZ) - Country Code: +7 (country code shared with Russia)
+Kenya 🇰🇪 (KE) - Country Code: +254
+Kiribati 🇰🇮 (KI) - Country Code: +686
+Kosovo 🇽🇰 (XK) - Country Code: +383
+Kuwait 🇰🇼 (KW) - Country Code: +965
+Kyrgyzstan 🇰🇬 (KG) - Country Code: +996
+Laos 🇱🇦 (LA) - Country Code: +856
+Latvia 🇱🇻 (LV) - Country Code: +371
+Lebanon 🇱🇧 (LB) - Country Code: +961
+Lesotho 🇱🇸 (LS) - Country Code: +266
+Liberia 🇱🇷 (LR) - Country Code: +231
+Libya 🇱🇾 (LY) - Country Code: +218
+Liechtenstein 🇱🇮 (LI) - Country Code: +423
+Lithuania 🇱🇹 (LT) - Country Code: +370
+Luxembourg 🇱🇺 (LU) - Country Code: +352
+Madagascar 🇲🇬 (MG) - Country Code: +261
+Malawi 🇲🇼 (MW) - Country Code: +265
+Malaysia 🇲🇾 (MY) - Country Code: +60
+Maldives 🇲🇻 (MV) - Country Code: +960
+Mali 🇲🇱 (ML) - Country Code: +223
+Malta 🇲🇹 (MT) - Country Code: +356
+Marshall Islands 🇲🇭 (MH) - Country Code: +692
+Mauritania 🇲🇷 (MR) - Country Code: +222
+Mauritius 🇲🇺 (MU) - Country Code: +230
+Mexico 🇲🇽 (MX) - Country Code: +52
+Micronesia 🇫🇲 (FM) - Country Code: +691
+Moldova 🇲🇩 (MD) - Country Code: +373
+Monaco 🇲🇨 (MC) - Country Code: +377
+Mongolia 🇲🇳 (MN) - Country Code: +976
+Montenegro 🇲🇪 (ME) - Country Code: +382
+Morocco 🇲🇦 (MA) - Country Code: +212
+Mozambique 🇲🇿 (MZ) - Country Code: +258
+Myanmar (Burma) 🇲🇲 (MM) - Country Code: +95
+Namibia 🇳🇦 (NA) - Country Code: +264
+Nauru 🇳🇷 (NR) - Country Code: +674
+Nepal 🇳🇵 (NP) - Country Code: +977
+Netherlands 🇳🇱 (NL) - Country Code: +31
+New Zealand 🇳🇿 (NZ) - Country Code: +64
+Nicaragua 🇳🇮 (NI) - Country Code: +505
+Niger 🇳🇪 (NE) - Country Code: +227
+Nigeria 🇳🇬 (NG) - Country Code: +234
+North Macedonia 🇲🇰 (MK) - Country Code: +389
+Norway 🇳🇴 (NO) - Country Code: +47
+Oman 🇴🇲 (OM) - Country Code: +968
+Pakistan 🇵🇰 (PK) - Country Code: +92
+Palau 🇵🇼 (PW) - Country Code: +680
+Palestine 🇵🇸 (PS) - Country Code: +970
+Panama 🇵🇦 (PA) - Country Code: +507
+Papua New Guinea 🇵🇬 (PG) - Country Code: +675
+Paraguay 🇵🇾 (PY) - Country Code: +595
+Peru 🇵🇪 (PE) - Country Code: +51
+Philippines 🇵🇭 (PH) - Country Code: +63
+Poland 🇵🇱 (PL) - Country Code: +48
+Portugal 🇵🇹 (PT) - Country Code: +351
+Qatar 🇶🇦 (QA) - Country Code: +974
+Romania 🇷🇴 (RO) - Country Code: +40
+Russia 🇷🇺 (RU) - Country Code: +7 (country code shared with Kazakhstan)
+Rwanda 🇷🇼 (RW) - Country Code: +250
+Saint Kitts and Nevis 🇰🇳 (KN) - Country Code: +1 (869)
+Saint Lucia 🇱🇨 (LC) - Country Code: +1 (758)
+Saint Vincent and the Grenadines 🇻🇨 (VC) - Country Code: +1 (784)
+Samoa 🇼🇸 (WS) - Country Code: +685
+San Marino 🇸🇲 (SM) - Country Code: +378
+Sao Tome and Principe 🇸🇹 (ST) - Country Code: +239
+Saudi Arabia 🇸🇦 (SA) - Country Code: +966
+Senegal 🇸🇳 (SN) - Country Code: +221
+Serbia 🇷🇸 (RS) - Country Code: +381
+Seychelles 🇸🇨 (SC) - Country Code: +248
+Sierra Leone 🇸🇱 (SL) - Country Code: +232
+Singapore 🇸🇬 (SG) - Country Code: +65
