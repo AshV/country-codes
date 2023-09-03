@@ -155,3 +155,42 @@ Serbia 🇷🇸 (RS) - Country Code: +381
 Seychelles 🇸🇨 (SC) - Country Code: +248
 Sierra Leone 🇸🇱 (SL) - Country Code: +232
 Singapore 🇸🇬 (SG) - Country Code: +65
+Slovakia 🇸🇰 (SK) - Country Code: +421
+Slovenia 🇸🇮 (SI) - Country Code: +386
+Solomon Islands 🇸🇧 (SB) - Country Code: +677
+Somalia 🇸🇴 (SO) - Country Code: +252
+South Africa 🇿🇦 (ZA) - Country Code: +27
+South Korea 🇰🇷 (KR) - Country Code: +82
+South Sudan 🇸🇸 (SS) - Country Code: +211
+Spain 🇪🇸 (ES) - Country Code: +34
+Sri Lanka 🇱🇰 (LK) - Country Code: +94
+Sudan 🇸🇩 (SD) - Country Code: +249
+Suriname 🇸🇷 (SR) - Country Code: +597
+Sweden 🇸🇪 (SE) - Country Code: +46
+Switzerland 🇨🇭 (CH) - Country Code: +41
+Syria 🇸🇾 (SY) - Country Code: +963
+Taiwan 🇹🇼 (TW) - Country Code: +886
+Tajikistan 🇹🇯 (TJ) - Country Code: +992
+Tanzania 🇹🇿 (TZ) - Country Code: +255
+Thailand 🇹🇭 (TH) - Country Code: +66
+Togo 🇹🇬 (TG) - Country Code: +228
+Tonga 🇹🇴 (TO) - Country Code: +676
+Trinidad and Tobago 🇹🇹 (TT) - Country Code: +1 (868)
+Tunisia 🇹🇳 (TN) - Country Code: +216
+Turkey 🇹🇷 (TR) - Country Code: +90
+Turkmenistan 🇹🇲 (TM) - Country Code: +993
+Tuvalu 🇹🇻 (TV) - Country Code: +688
+Uganda 🇺🇬 (UG) - Country Code: +256
+Ukraine 🇺🇦 (UA) - Country Code: +380
+United Arab Emirates 🇦🇪 (AE) - Country Code: +971
+United Kingdom 🇬🇧 (GB) - Country Code: +44
+United States 🇺🇸 (US) - Country Code: +1
+Uruguay 🇺🇾 (UY) - Country Code: +598
+Uzbekistan 🇺🇿 (UZ) - Country Code: +998
+Vanuatu 🇻🇺 (VU) - Country Code: +678
+Vatican City 🇻🇦 (VA) - Country Code: +39 (shared with Italy)
+Venezuela 🇻🇪 (VE) - Country Code: +58
+Vietnam 🇻🇳 (VN) - Country Code: +84
+Yemen 🇾🇪 (YE) - Country Code: +967
+Zambia 🇿🇲 (ZM) - Country Code: +260
+Zimbabwe 🇿🇼 (ZW) - Country Code: +263
