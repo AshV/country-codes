@@ -526,7 +526,7 @@
          "name":"Kazakhstan",
          "flag":"🇰🇿",
          "iso_alpha2":"KZ",
-         "country_code":"+7 (country code shared with Russia)"
+         "country_code":"+7"
       },
       {
          "name":"Kenya",
@@ -868,7 +868,7 @@
          "name":"Russia",
          "flag":"🇷🇺",
          "iso_alpha2":"RU",
-         "country_code":"+7 (country code shared with Kazakhstan)"
+         "country_code":"+7"
       },
       {
          "name":"Rwanda",
@@ -1150,7 +1150,7 @@
          "name":"Vatican City",
          "flag":"🇻🇦",
          "iso_alpha2":"VA",
-         "country_code":"+39 (Vatican City uses Italy's dialing code)"
+         "country_code":"+39"
       },
       {
          "name":"Venezuela",
